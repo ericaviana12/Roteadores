@@ -1,5 +1,5 @@
-|	Roteador	|	IP	|	Login	|	Senha	|
-|	:---	|	:---	|	:---	|	:---	|
+|	Roteador		Senha	|
+|	:---	|
 
 
 
