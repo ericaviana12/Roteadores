@@ -1,5 +1,8 @@
 |	Roteador	|	IP	|	Login	|	Senha	|
 |	:---	|	:---	|	:---	|	:---	|
+
+
+
 |	Netgear router	|	http://192.168.0.1	|	admin	|	senha	|
 |	Linksys router	|	http://192.168.1.1	|	admin	|	admin	|
 |	Asus router	|	http://192.168.1.1	|	admin	|	admin	|
